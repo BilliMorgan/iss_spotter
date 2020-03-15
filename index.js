@@ -20,6 +20,7 @@ if(error) {
   //console.log(Array.isArray(passTimes))
 });
 
+module.exports = { printPassTimes}
 
 // const testIp = fetchMyIP((error, ip) => {
 //   // if (error) {
